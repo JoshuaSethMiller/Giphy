@@ -1,0 +1,43 @@
+    button, div, form, input {
+        margin: 10px;
+    }
+    button {
+        background-color: #000000;
+        color: #ffffff;
+        border-radius: 5px;
+    }
+    button:hover{
+      background-color: #ffffff;
+      color: #000000;
+    }
+    h1 {
+        font-size: 50px;
+        margin: auto;
+        font-family: sans-serif;
+
+    }
+    #addCar {
+        background-color: red;
+        color: #ffffff;
+        font-size: 10px;
+        border-radius: 10px;
+    }
+    #addCar:hover{
+      background-color: #ffffff;
+      color: #000000;
+    }
+    label {
+        font-size: 20px;
+        font-family: sans-serif;
+    }
+    .add {
+        width: 400px;
+        height: 200px;
+        float: right;
+        background-color: #FAFAFA;
+        text-align: center;
+    }
+    #heading{
+      width: 400px;
+      margin: auto;
+    }
